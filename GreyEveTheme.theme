@@ -3,7 +3,7 @@
 
 [Theme]
 ; Windows - IDS_THEME_DISPLAYNAME_AERO
-DisplayName=GreyEveTheme V2.1
+DisplayName=Catppuccin
 ThemeId={30A4D7D0-E8D2-467C-BC88-C9A557F57D63}
 
 [Control Panel\Desktop]
@@ -22,34 +22,34 @@ HighContrast=3
 MTSM=RJSPBS
 
 [Control Panel\Colors]
-ActiveBorder=45 45 45
-ActiveTitle=45 45 45
-AppWorkspace=45 45 45
-Background=0 0 0
-ButtonAlternateFace=192 192 192
-ButtonDkShadow=45 45 45
-ButtonFace=45 45 45
-ButtonHilight=45 45 45
-ButtonLight=45 45 45
-ButtonShadow=128 128 128
-ButtonText=220 220 220
-GradientActiveTitle=192 192 192
-GradientInactiveTitle=128 128 128
-GrayText=128 128 128
-Hilight=79 79 79
-HilightText=252 252 252
-HotTrackingColor=220 220 220
-InactiveBorder=45 45 45
-InactiveTitle=45 45 45
-InactiveTitleText=192 192 192
-InfoText=220 220 220
-InfoWindow=45 45 45
-Menu=45 45 45
-MenuBar=45 45 45
-MenuHilight=128 128 128
-MenuText=230 230 230
-Scrollbar=45 45 45
-TitleText=220 220 220
-Window=45 45 45
-WindowFrame=15 15 15
-WindowText=220 220 220
+ActiveBorder=65 69 89
+ActiveTitle=65 69 89
+AppWorkspace=65 69 89
+Background=35 38 52
+ButtonAlternateFace=148 156 187
+ButtonDkShadow=65 69 89
+ButtonFace=65 69 89
+ButtonHilight=65 69 89
+ButtonLight=65 69 89
+ButtonShadow=131 139 167
+ButtonText=181 191 226
+GradientActiveTitle=148 156 187
+GradientInactiveTitle=131 139 167
+GrayText=131 139 167
+Hilight=98 104 128
+HilightText=198 208 245
+HotTrackingColor=181 191 226
+InactiveBorder=65 69 89
+InactiveTitle=65 69 89
+InactiveTitleText=148 156 187
+InfoText=181 191 226
+InfoWindow=65 69 89
+Menu=65 69 89
+MenuBar=65 69 89
+MenuHilight=131 139 167
+MenuText=181 191 226
+Scrollbar=65 69 89
+TitleText=181 191 226
+Window=65 69 89
+WindowFrame=48 52 70
+WindowText=181 191 226
